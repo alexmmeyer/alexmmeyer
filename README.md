@@ -17,7 +17,7 @@ https://www.marathonswimrankings.com/
 
 https://www.openwaterinsights.com/
 
-A Python app built from scratch to bring more structure, visibility, and better rankings to open water swimming. The methodology I developed was later adopted by World Aquatics.
+A Python app built from scratch to bring more structure, visibility, and better rankings to open water swimming. The methodology I developed was later adopted by World Aquatics. It hasn't been updated since World Aquatics implemented their version of my system; however, I do plan to spruce this up eventually when I have more free time.
 
 ### PowderScout
 https://powderscout.com/
