@@ -13,9 +13,12 @@ More recently, I’ve been using AI-assisted workflows to prototype faster and e
 ## Projects
 
 ### Open Water Insights
+https://www.marathonswimrankings.com/
+https://www.openwaterinsights.com/
 A Python app built from scratch to bring more structure, visibility, and better rankings to open water swimming. The methodology I developed was later adopted by World Aquatics.
 
 ### PowderScout
+https://powderscout.com/
 A side venture focused on helping skiers and snowboarders rank destination options based on forecast, cost, pass coverage, and trip constraints. An ongoing exploration of ranking systems, decision support, and AI-assisted product development.
 
 ## Interested In
