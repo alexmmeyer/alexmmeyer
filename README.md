@@ -1,4 +1,4 @@
-## What I’m about
+## Hey, I'm Alex 👊👊
 
 I’m a product manager who likes to tinker, prototype, and build. I’m especially interested in products that help people make data-informed decisions or surface patterns that aren’t obvious at first glance. Much of that curiosity ends up orbiting ranking systems, recommendation logic, and decision-support tools.
 
@@ -32,7 +32,3 @@ A Python app built from scratch to bring more structure, visibility, and better 
 - Hands-on prototyping
 - Making messy information useful
 - Building products that reveal non-obvious patterns
-
-## Current Focus
-
-Exploring how product thinking, lightweight coding, and AI-assisted workflows can work together to accelerate learning and build better products.
