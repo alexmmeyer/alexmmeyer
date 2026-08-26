@@ -4,7 +4,7 @@ I’m a product manager who likes to tinker, prototype, and build. I’m especia
 
 I’m currently a Product Manager at [Tixr](https://www.tixr.com/), where I specialize in complex ticketing systems, particularly around pricing strategy, season tickets, and financial reporting. I’m drawn to products and systems with lots of moving parts, messy constraints, and opportunities to make complicated workflows more intuitive and useful.
 
-I’m also a U.S. Olympian, and my background in sport shaped the way I learn and build. It made me intensely curious, highly self-motivated, and eager to go deep on things that interest me — sometimes to an obsessive degree! It also directly led to my first foray into coding and buidling products with Open Water Insights.
+I’m also a U.S. Olympian, and my background in sport shaped the way I learn and build. It made me intensely curious, highly self-motivated, and eager to go deep on things that interest me... sometimes to an obsessive degree! It also directly led to my first foray into coding and buidling products with Open Water Insights.
 
 During COVID, I taught myself Python and built my first app, **Open Water Insights**, from scratch as a way to give back to the sport of open water swimming. The ranking methods I developed there were eventually adopted by World Aquatics, the international governing body for aquatic sports.
 
